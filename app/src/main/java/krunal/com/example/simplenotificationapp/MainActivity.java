@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
             timePicker.show();
         });
 
-        
+
         mSendNotification2.setOnClickListener(v -> {
             String getsetTime2 = mSetTime2.getText().toString();
             // Checking if editText is Empty.
