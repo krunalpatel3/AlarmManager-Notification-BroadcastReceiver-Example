@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Notification app</string>
+    <string name="set_time">Set Time</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="time_in_seconds">Time in seconds</string>
+
+
+
+    <string name="notification_title">This is Alert!</string>
+    <string name="notification_text">From Alarm Example!</string>
+    <string name="time">Time</string>
+    <string name="send_notification2">Send Notification</string>
+
+</resources>
