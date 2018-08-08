@@ -8,7 +8,7 @@ using **AlarmManager** in Android.
 
 ## Screenshots:
 
-![](https://github.com/krunalpatel3/AlarmManager-Notification-BroadcastReceiver-Example/blob/master/Screenshots/Screenshot_20180807-160354.png)
-![](https://github.com/krunalpatel3/AlarmManager-Notification-BroadcastReceiver-Example/blob/master/Screenshots/Screenshot_20180807-160408.png)
-![](https://github.com/krunalpatel3/AlarmManager-Notification-BroadcastReceiver-Example/blob/master/Screenshots/Screenshot_20180807-160443.png)
-![](https://github.com/krunalpatel3/AlarmManager-Notification-BroadcastReceiver-Example/blob/master/Screenshots/Screenshot_20180807-160548.png)
+<img src="https://github.com/krunalpatel3/AlarmManager-Notification-BroadcastReceiver-Example/blob/master/Screenshots/Screenshot_20180807-160354.png" width="250" height="450" /> <img src="https://github.com/krunalpatel3/AlarmManager-Notification-BroadcastReceiver-Example/blob/master/Screenshots/Screenshot_20180807-160408.png" width="250" height="450" /> <img src="https://github.com/krunalpatel3/AlarmManager-Notification-BroadcastReceiver-Example/blob/master/Screenshots/Screenshot_20180807-160443.png" width="250" height="450" />
+
+<img src="https://github.com/krunalpatel3/AlarmManager-Notification-BroadcastReceiver-Example/blob/master/Screenshots/Screenshot_20180807-160548.png" width="250" height="450" />
+
