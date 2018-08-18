@@ -1,6 +1,6 @@
 # AlarmManager, Notification, BroadcastReceiver, Example.
 
-1) This app show's you how to use **AlarmManager Notification BroadcastReceiver** in Andorid.
+1) This app show's you how to use **AlarmManager,Notification,BroadcastReceiver** in Andorid.
 2) It also show's you that how to send **Notification** in Andorid using **AlarmManager and BroadcastReceiver**.
 3) And It also show's you that how get current Time in milliseconds using calendar api in java and Android and set the **Alarm**
 using **AlarmManager** in Android. 
